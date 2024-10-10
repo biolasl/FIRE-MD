@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "38;opaksfire"
+      "value": "38;o"
     },
     "BOTNAME": {
       "description": "News Bot",
