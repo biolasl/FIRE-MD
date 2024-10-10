@@ -1,7 +1,7 @@
 {
-    "name": "FIRE MD",
-    "version": "2.1.0",
-    "description": "A FIRE NATION  BY OPAKSFIRE",
+    "name": "News bot",
+    "version": "1",
+    "description": "News bot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -17,9 +17,9 @@
         "test": "node test.js"
     },
     "keywords": [],
-    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
+    "homepage": "bot",
     "author": {
-        "name": "OPAKSFIRE"
+        "name": "bot"
     },
     "repository": {
         "type": "git",
